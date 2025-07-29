@@ -1,8 +1,9 @@
 DAY-R GCTDAI System
 
+DAY-R (Global Conflicts & Threats Detection & Analysis Intelligence System) is a comprehensive OSINT platform designed for military/defense/intel applications. 
 
-DAY-R (Global Conflicts & Threats Detection & Analysis Intelligence System) is a comprehensive OSINT platform designed for military/defense applications. Key capabilities:
 
+Key capabilities:
 1 - Real-time Threat Detection
 	Monitors 100+ global news sources in 20+ languages
 	AI-powered threat scoring with weighted keyword analysis
@@ -25,8 +26,7 @@ DAY-R (Global Conflicts & Threats Detection & Analysis Intelligence System) is a
 
 
 
-Deployment Considerations
-
+Deployment Considerations:
 A - Hardware Requirements:
 	Minimum: 4 vCPU, 8GB RAM, 50GB storage
 	Recommended: GPU acceleration for NLP processing
